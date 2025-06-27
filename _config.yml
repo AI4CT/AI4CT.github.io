@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Baodi Yu（于宝地）"
+  name             : "Baodi Yu"
   avatar           : "images/avatar_hongkong.png"
   bio              : "University of the Chinese Academy of Sciences"
   location         : "Beijing, China"

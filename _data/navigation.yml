@@ -21,5 +21,5 @@ main:
   - title: "Societies"
     url: "/#-societies"
 
-  # - title: "Internships"
-  #   url: "/#-internships"
+  - title: "简体中文"
+    url: "https://yubaodi.github.io/"

@@ -38,7 +38,7 @@ My research focuses on interdisciplinary studies in multiphase flow measurement,
 
 3DBubbles: An Experimental Dataset for Model Training and Benchmarking(**cs**)
 
-**Baodi Yu**, Qian Chen Yanwei Qin, Sunyang Wang, Xiaohui Su, Fanyong Meng*
+**Baodi Yu**, Qian Chen, Yanwei Qin, Sunyang Wang, Xiaohui Su, Fanyong Meng*
 
 [📄**Code**](https://github.com/AI4CT/3DBubbles)&nbsp;·&nbsp;[💿**Kaggle**](https://www.kaggle.com/datasets/ai4ctofipe/3dbubbles)&nbsp;·&nbsp;[💿**Zenodo**](https://doi.org/10.5281/zenodo.15636832)
 - **Objective**: Addressed a critical bottleneck in fluid dynamics research: the lack of high-quality, large-scale experimental datasets of 3D bubble structures for training and benchmarking Artificial Intelligence (AI) models.
