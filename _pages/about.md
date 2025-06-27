@@ -130,7 +130,7 @@ Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (C
 
 # 💼 Societies
 - *2023.09 - 2026.06* Class Leader in University of Chinese Academy of Sciences
-- *2020.12 - 2024.12* Member of General Party Branch Committee in University of Chinese Academy of Sciences
+- *2021.12 - 2024.12* Member of General Party Branch Committee in University of Chinese Academy of Sciences
 - *2020.09 - 2024.11* Secretary of Party Branch Committee in University of Chinese Academy of Sciences
 - *2018.07 - 2020.06* Secretary of Party Branch Committee in Beijing University of Chemical Technology
 - *2016.09 - 2020.06* Class Study Monitor in Beijing University of Chemical Technology
