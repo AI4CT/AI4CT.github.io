@@ -96,7 +96,6 @@ Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (C
 **Baodi Yu**, Fanyong Meng*. (CN202311045920.0, Substantive Examination)
 
 - **Objective**: To address the massive data volume from high-resolution flow-field measurements (e.g., high-speed cameras) which creates immense storage and transmission pressure, and the inability of traditional pixel-based compression to preserve key physical structures.
-
 - **Methodology**: Proposed a novel structure-based compression method that uses a deep neural network to automatically detect key structures (e.g., bubbles) in the flow field  and extracts their geometric and physical information into low-dimensional parameters for efficient binary storage.
 - **Contribution**: This method achieves an extremely high compression ratio (approx. 290:1 in the example) , significantly saving storage space while preserving physically meaningful structural information and enabling subsequent flow-field reconstruction.
 </div>
