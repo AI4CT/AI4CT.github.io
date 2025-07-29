@@ -109,6 +109,7 @@ Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (C
 - *2024.01* Provincial Third Prize, Beijing Science Communication Competition
 - *2021.12* National First Prize (1st), "University of Chinese Academy of Sciences Cup" Innovation and Entrepreneurship Competition, Software and Internet Category
 - *2019.08* National Third Prize, National College Student Design Competition
+- *2019.05* Provincial First Prize, Chemical Engineering Principles Competition
 - *2019.04* Meritorious Winner, International Mathematical Modeling Contest: The Interdisciplinary Contest in Modeling (ICM).
 - *2018.10* Provincial Second Prize, National Mathematical Modeling Contest.
 - *2018.04* Meritorious Winner, International Mathematical Modeling Contest: The Interdisciplinary Contest in Modeling (ICM).
