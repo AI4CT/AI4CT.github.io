@@ -21,6 +21,7 @@ I am currently pursuing a PhD at the [State Key Laboratory of Mesoscience and En
 My research focuses on interdisciplinary studies in multiphase flow measurement, fluid mechanics, computer vision, and artificial intelligence. Specifically, I am working on the detection, characterization, and generation of highly overlapping scenarios in multiphase flows.
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉 One paper was accepted to AIChE Journal.
 - *2025.06*: &nbsp;🎉 I have officially started using and updating my academic homepage. 
 - *2025.05*: &nbsp;🎉 One paper was accepted to Machine Learning: Engineering.
 - *2025.04*: &nbsp;🎉 One paper was accepted to CT Theory and Applications.
@@ -30,13 +31,13 @@ My research focuses on interdisciplinary studies in multiphase flow measurement,
 - *2016.09 - 2020.06*, Undergraduate, Beijing University of Chemical Technology (BUCT), Beijing. (GPA: **3.81**/4.33, rank: **6**/206)
 
 # 📝 Publications 
-\# Equal Contributions; * Corresponding Authors; cs: coming soon.
+\# Equal Contributions; * Corresponding Authors.
 ## 📄 Papers 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIChE J. 2025</div><img src='images/3DBubbles An Experimental Dataset for Model Training and Benchmarking.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-3DBubbles: An Experimental Dataset for Model Training and Benchmarking(**cs**)
+[3DBubbles: An Experimental Dataset for Model Training and Benchmarking](https://aiche.onlinelibrary.wiley.com/doi/full/10.1002/aic.70029)
 
 **Baodi Yu**, Qian Chen, Yanwei Qin, Sunyang Wang, Xiaohui Su, Fanyong Meng*
 
