@@ -106,15 +106,16 @@ Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (C
 - [Flow field measurement data compression and storage method and system](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA3ABA7DBA4ADA6DCA4EAA9CIF9EAAAIAA9HCC7FCA), **Baodi Yu**, Fanyong Meng*. (CN202311045920.0, Substantive Examination) -->
 
 # 🤝 Competitions
+- *2025.11* The third prize, State Key Laboratory of Mesoscience and Engineering
 - *2024.12* National Second Prize, First National Artificial Intelligence Application Innovation Competition in the Chemical Industry
 - *2024.01* Provincial Third Prize, Beijing Science Communication Competition
 - *2021.12* National First Prize (1st), "University of Chinese Academy of Sciences Cup" Innovation and Entrepreneurship Competition, Software and Internet Category
 - *2019.08* National Third Prize, National College Student Design Competition
 - *2019.05* Provincial First Prize, Chemical Engineering Principles Competition
-- *2019.04* Meritorious Winner, International Mathematical Modeling Contest: The Interdisciplinary Contest in Modeling (ICM).
-- *2018.10* Provincial Second Prize, National Mathematical Modeling Contest.
-- *2018.04* Meritorious Winner, International Mathematical Modeling Contest: The Interdisciplinary Contest in Modeling (ICM).
-- *2017.10* Provincial Second Prize, National Mathematical Modeling Contest.
+- *2019.04* Meritorious Winner, International Mathematical Modeling Contest: The Interdisciplinary Contest in Modeling (ICM)
+- *2018.10* Provincial Second Prize, National Mathematical Modeling Contest
+- *2018.04* Meritorious Winner, International Mathematical Modeling Contest: The Interdisciplinary Contest in Modeling (ICM)
+- *2017.10* Provincial Second Prize, National Mathematical Modeling Contest
 
 # 💎 Honors and Awards
 - *2024.07* National Outstanding Communist Party Member
@@ -122,6 +123,8 @@ Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (C
 - *2021.07* Outstanding Communist Party Member in University of Chinese Academy of Sciences
 - *2021.06* Excellent Student Cadre in University of Chinese Academy of Sciences
 - *2020.09* Recommended Scholarship for Graduate Admissions without Entrance Examination in University of Chinese Academy of Sciences
+- *2020.06* First Prize Scholarship in Beijing University of Chemical Technology
+- *2019.10* EPC Natural Products Co. Ltd. High-value Scholarship
 - *2019.04* First Prize Scholarship in Beijing University of Chemical Technology
 - *2018.12* Excellent Student Cadre in Beijing University of Chemical Technology
 - *2018.10* Shantou Zhejiang Runtu Co., Ltd. Scholarship
