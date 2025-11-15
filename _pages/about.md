@@ -125,7 +125,7 @@ Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (C
 - *2020.09* Recommended Scholarship for Graduate Admissions without Entrance Examination in University of Chinese Academy of Sciences
 - *2020.06* First Prize Scholarship in Beijing University of Chemical Technology
 - *2019.10* EPC Natural Products Co. Ltd. High-value Scholarship
-- *2019.04* First Prize Scholarship in Beijing University of Chemical Technology
+- *2019.05* First Prize Scholarship in Beijing University of Chemical Technology
 - *2018.12* Excellent Student Cadre in Beijing University of Chemical Technology
 - *2018.10* Shantou Zhejiang Runtu Co., Ltd. Scholarship
 - *2017.12* Merit Student in Beijing University of Chemical Technology
