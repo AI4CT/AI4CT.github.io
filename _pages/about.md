@@ -16,11 +16,12 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently pursuing a PhD at the [State Key Laboratory of Mesoscience and Engineering](https://www.mesolab.ac.cn), [Institute of Process Engineering](http://english.ipe.cas.cn), [University of Chinese Academy of Sciences](https://english.ucas.ac.cn), under the supervision of Associate Researcher [Meng Fanyong](https://people.ucas.edu.cn/~0037928).
+I am currently pursuing a PhD at the [State Key Laboratory of Mesoscience and Engineering](https://www.mesolab.ac.cn), [Institute of Process Engineering](http://english.ipe.cas.cn), [University of Chinese Academy of Sciences](https://english.ucas.ac.cn), under the supervision of [Ge Wei](https://people.ucas.ac.cn/~WeiGe) Researcher and [Meng Fanyong](https://people.ucas.edu.cn/~0037928) Associate Researcher.
 
 My research focuses on interdisciplinary studies in multiphase flow measurement, fluid mechanics, computer vision, and artificial intelligence. Specifically, I am working on the detection, characterization, and generation of highly overlapping scenarios in multiphase flows.
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉 One paper was accepted to IEEE Trans. on Image Process.
 - *2025.08*: &nbsp;🎉 One paper was accepted to AIChE Journal.
 - *2025.06*: &nbsp;🎉 I have officially started using and updating my academic homepage. 
 - *2025.05*: &nbsp;🎉 One paper was accepted to Machine Learning: Engineering.
@@ -118,6 +119,9 @@ Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (C
 - *2017.10* Provincial Second Prize, National Mathematical Modeling Contest
 
 # 💎 Honors and Awards
+- *2026.05* Outstanding Graduate in Beijing City
+- *2026.05* Outstanding Graduates in University of Chinese Academy of Sciences
+- *2025.12* Scholarship of the Institute of Process Engineering, Chinese Academy of Sciences
 - *2024.07* National Outstanding Communist Party Member
 - *2022.07* Excellent Communist Party cadre in University of Chinese Academy of Sciences
 - *2021.07* Outstanding Communist Party Member in University of Chinese Academy of Sciences
@@ -133,7 +137,8 @@ Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (C
 - *2017.04* Second Prize Scholarship in Beijing University of Chemical Technology
 
 # 💼 Societies
-- *2023.09 - 2026.06* Class Leader in University of Chinese Academy of Sciences
+- *2023.09 - 2026.06* psychological commissioner in University of Chinese Academy of Sciences
+- *2023.03 - 2026.06* Class Monitor in University of Chinese Academy of Sciences
 - *2021.12 - 2024.12* Member of General Party Branch Committee in University of Chinese Academy of Sciences
 - *2020.09 - 2024.11* Secretary of Party Branch Committee in University of Chinese Academy of Sciences
 - *2018.07 - 2020.06* Secretary of Party Branch Committee in Beijing University of Chemical Technology
