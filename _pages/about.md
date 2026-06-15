@@ -82,7 +82,7 @@ Qian Chen, **Baodi Yu**, Yanwei Qin, Sunyang Wang, Xiaohui Su, Xin Jin, Fanyong 
 
 [Multiphase flow quasi-dynamic phantom and CT device testing method for CT device testing](https://cprs.patentstar.com.cn/Search/Detail?ANE=5CBA9FGC6BDA9HBD9EEA2ABA9GDF6CAA9FECFFIA9EGG9EAE)
 
-Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (CN202411542959.8, Substantive Examination)
+Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (ZL202411542959.8, Authorized)
 
 - **Objective**: To solve the core difficulty in evaluating the performance of dynamic CT scanners for multiphase flow: the inability to obtain the 3D ground truth of a real, transient flow field for accurate performance calibration.
 - **Methodology**: Invented a "quasi-dynamic phantom" featuring a solid "flow-field pillar" with fixed internal bubble structures. This pillar is moved at controlled speeds to simulate a repeatable and predictable dynamic flow field.
@@ -95,7 +95,7 @@ Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (C
 
 [Flow field measurement data compression and storage method and system](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA3ABA7DBA4ADA6DCA4EAA9CIF9EAAAIAA9HCC7FCA)
 
-**Baodi Yu**, Fanyong Meng*. (CN202311045920.0, Substantive Examination)
+**Baodi Yu**, Fanyong Meng*. (202311045920.0, Substantive Examination)
 
 - **Objective**: To address the massive data volume from high-resolution flow-field measurements (e.g., high-speed cameras) which creates immense storage and transmission pressure, and the inability of traditional pixel-based compression to preserve key physical structures.
 - **Methodology**: Proposed a novel structure-based compression method that uses a deep neural network to automatically detect key structures (e.g., bubbles) in the flow field  and extracts their geometric and physical information into low-dimensional parameters for efficient binary storage.
