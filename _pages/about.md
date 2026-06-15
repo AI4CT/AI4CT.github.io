@@ -107,6 +107,7 @@ Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (C
 - [Flow field measurement data compression and storage method and system](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA3ABA7DBA4ADA6DCA4EAA9CIF9EAAAIAA9HCC7FCA), **Baodi Yu**, Fanyong Meng*. (CN202311045920.0, Substantive Examination) -->
 
 # 🤝 Competitions
+- *2025.11* The First prize, Academic Report of Graduate Students of University of Chinese Academy of Sciences
 - *2025.11* The third prize, State Key Laboratory of Mesoscience and Engineering
 - *2024.12* National Second Prize, First National Artificial Intelligence Application Innovation Competition in the Chemical Industry
 - *2024.01* Provincial Third Prize, Beijing Science Communication Competition
